@@ -26,6 +26,7 @@ com\portfolio\nicolas2\Security\Entity\Rol.class
 com\portfolio\nicolas2\Security\Entity\Usuario.class
 com\portfolio\nicolas2\Security\Dto\JwtDto.class
 com\portfolio\nicolas2\Security\Controller\AuthController.class
+com\portfolio\nicolas2\WebConfig.class
 com\portfolio\nicolas2\Security\Dto\NuevoUsuario.class
 com\portfolio\nicolas2\Security\Service\RolService.class
 com\portfolio\nicolas2\Security\Service\UsuarioService.class
